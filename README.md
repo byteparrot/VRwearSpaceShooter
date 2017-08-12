@@ -19,7 +19,7 @@ We use the Android ecosystem to develop the apps (Android Phone and Android Watc
 
 ### Project Setup
 
-<img src="/doc/Project_Setup_Overview.png" width="60%">
+<img src="/img/Project_Setup_Overview.png" width="60%">
 
 The game is made with the Unity game engine and programmed using C# scripts. To communicate with the watch, the Android Wear API is used. Therefore, a small android library (in Java) is imported into the Unity game and is used to receive the messages from the watch.
 The Android App running on the watch that constantly reads the sensor values and sends them to the Android library inside the game on the phone. The library passes the values on to the game.
@@ -30,4 +30,4 @@ The App is available on the Google Play Store: https://play.google.com/store/app
 
 Details about how the communication between the smartwatch and the phone is implemented: https://blog.haknode.com/using-android-watch-sensors-to-control-a-unity-game/
 
-<img src="/doc/screenshot.png" width="80%">
+<img src="/img/screenshot.png" width="80%">
