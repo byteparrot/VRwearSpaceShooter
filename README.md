@@ -28,6 +28,5 @@ The Android App running on the watch that constantly reads the sensor values and
 
 The App is available on the Google Play Store: https://play.google.com/store/apps/details?id=at.fhooe.pro2
 
-Details about how the communication between the smartwatch and the phone is implemented: https://blog.haknode.com/using-android-watch-sensors-to-control-a-unity-game/
 
 <img src="/img/screenshot.png" width="80%">
